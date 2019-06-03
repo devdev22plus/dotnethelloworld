@@ -1,0 +1,16 @@
+/Volumes/Workspace/dotnethelloworld/bin/Release/netcoreapp2.2/dotnethelloworld.deps.json
+/Volumes/Workspace/dotnethelloworld/bin/Release/netcoreapp2.2/dotnethelloworld.runtimeconfig.json
+/Volumes/Workspace/dotnethelloworld/bin/Release/netcoreapp2.2/dotnethelloworld.runtimeconfig.dev.json
+/Volumes/Workspace/dotnethelloworld/bin/Release/netcoreapp2.2/dotnethelloworld.dll
+/Volumes/Workspace/dotnethelloworld/bin/Release/netcoreapp2.2/dotnethelloworld.pdb
+/Volumes/Workspace/dotnethelloworld/bin/Release/netcoreapp2.2/dotnethelloworld.Views.dll
+/Volumes/Workspace/dotnethelloworld/obj/Release/netcoreapp2.2/dotnethelloworld.csprojAssemblyReference.cache
+/Volumes/Workspace/dotnethelloworld/obj/Release/netcoreapp2.2/dotnethelloworld.csproj.CoreCompileInputs.cache
+/Volumes/Workspace/dotnethelloworld/obj/Release/netcoreapp2.2/dotnethelloworld.RazorAssemblyInfo.cache
+/Volumes/Workspace/dotnethelloworld/obj/Release/netcoreapp2.2/dotnethelloworld.RazorAssemblyInfo.cs
+/Volumes/Workspace/dotnethelloworld/obj/Release/netcoreapp2.2/dotnethelloworld.AssemblyInfoInputs.cache
+/Volumes/Workspace/dotnethelloworld/obj/Release/netcoreapp2.2/dotnethelloworld.AssemblyInfo.cs
+/Volumes/Workspace/dotnethelloworld/obj/Release/netcoreapp2.2/dotnethelloworld.RazorTargetAssemblyInfo.cache
+/Volumes/Workspace/dotnethelloworld/obj/Release/netcoreapp2.2/dotnethelloworld.dll
+/Volumes/Workspace/dotnethelloworld/obj/Release/netcoreapp2.2/dotnethelloworld.pdb
+/Volumes/Workspace/dotnethelloworld/obj/Release/netcoreapp2.2/dotnethelloworld.csproj.CopyComplete
