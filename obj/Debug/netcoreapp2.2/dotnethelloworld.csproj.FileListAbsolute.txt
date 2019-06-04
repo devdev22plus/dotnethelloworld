@@ -12,3 +12,17 @@
 /Volumes/Workspace/dotnethelloworld/obj/Debug/netcoreapp2.2/dotnethelloworld.RazorTargetAssemblyInfo.cache
 /Volumes/Workspace/dotnethelloworld/obj/Debug/netcoreapp2.2/dotnethelloworld.dll
 /Volumes/Workspace/dotnethelloworld/obj/Debug/netcoreapp2.2/dotnethelloworld.pdb
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/bin/Debug/netcoreapp2.2/dotnethelloworld.deps.json
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/bin/Debug/netcoreapp2.2/dotnethelloworld.runtimeconfig.json
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/bin/Debug/netcoreapp2.2/dotnethelloworld.runtimeconfig.dev.json
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/bin/Debug/netcoreapp2.2/dotnethelloworld.dll
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/bin/Debug/netcoreapp2.2/dotnethelloworld.pdb
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/obj/Debug/netcoreapp2.2/dotnethelloworld.csprojAssemblyReference.cache
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/obj/Debug/netcoreapp2.2/dotnethelloworld.csproj.CoreCompileInputs.cache
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/obj/Debug/netcoreapp2.2/dotnethelloworld.RazorAssemblyInfo.cache
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/obj/Debug/netcoreapp2.2/dotnethelloworld.RazorAssemblyInfo.cs
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/obj/Debug/netcoreapp2.2/dotnethelloworld.AssemblyInfoInputs.cache
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/obj/Debug/netcoreapp2.2/dotnethelloworld.AssemblyInfo.cs
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/obj/Debug/netcoreapp2.2/dotnethelloworld.RazorTargetAssemblyInfo.cache
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/obj/Debug/netcoreapp2.2/dotnethelloworld.dll
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/obj/Debug/netcoreapp2.2/dotnethelloworld.pdb

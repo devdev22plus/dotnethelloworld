@@ -1,0 +1,11 @@
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/bin/Release/netcoreapp2.0/dotnethelloworld.deps.json
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/bin/Release/netcoreapp2.0/dotnethelloworld.runtimeconfig.json
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/bin/Release/netcoreapp2.0/dotnethelloworld.runtimeconfig.dev.json
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/bin/Release/netcoreapp2.0/dotnethelloworld.dll
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/bin/Release/netcoreapp2.0/dotnethelloworld.pdb
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/obj/Release/netcoreapp2.0/dotnethelloworld.csprojAssemblyReference.cache
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/obj/Release/netcoreapp2.0/dotnethelloworld.csproj.CoreCompileInputs.cache
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/obj/Release/netcoreapp2.0/dotnethelloworld.AssemblyInfoInputs.cache
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/obj/Release/netcoreapp2.0/dotnethelloworld.AssemblyInfo.cs
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/obj/Release/netcoreapp2.0/dotnethelloworld.dll
+/Volumes/Workspace/VSCode-Github/dotnethelloworld/obj/Release/netcoreapp2.0/dotnethelloworld.pdb
