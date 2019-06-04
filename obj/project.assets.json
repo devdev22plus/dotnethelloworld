@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/Workspace/dotnethelloworld/dotnethelloworld.csproj",
+      "projectUniqueName": "/Volumes/Workspace/VSCode-Github/dotnethelloworld/dotnethelloworld.csproj",
       "projectName": "dotnethelloworld",
-      "projectPath": "/Volumes/Workspace/dotnethelloworld/dotnethelloworld.csproj",
+      "projectPath": "/Volumes/Workspace/VSCode-Github/dotnethelloworld/dotnethelloworld.csproj",
       "packagesPath": "/Users/best/.nuget/packages/",
-      "outputPath": "/Volumes/Workspace/dotnethelloworld/obj/",
+      "outputPath": "/Volumes/Workspace/VSCode-Github/dotnethelloworld/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
