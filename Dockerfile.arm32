@@ -5,7 +5,8 @@
 #RUN dotnet publish -c Release -o /app/
 
 #FROM microsoft/dotnet:2.0-runtime-stretch-arm32v7
-FROM mcr.microsoft.com/dotnet/core/aspnet:2.2.5-stretch-slim-arm32v7
+#FROM mcr.microsoft.com/dotnet/core/aspnet:2.2.5-stretch-slim-arm32v7
+FROM mcr.microsoft.com/dotnet/core/aspnet:2.2-stretch-slim-arm32v7
 ENV IS_DOCKER_ENV=true
 WORKDIR /app
 
