@@ -13,7 +13,8 @@ WORKDIR /app
 COPY . .
 
 #ลบตรงนี้เนื่องจากจะใช้การแชร์จาก docker volume เข้าไปแทน
-RUN rm -rf wwwroot
+#มีบัคบน arm ไม่ผ่านสะงั้น?
+# RUN rm -rf wwwroot
 
 
 CMD ASPNETCORE_URLS=http://*:$PORT dotnet dotnethelloworld.dll
