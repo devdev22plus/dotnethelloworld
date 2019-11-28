@@ -36,9 +36,19 @@ namespace dotnethelloworld
 		app.Run(async (context) =>{
 			await context.Response.WriteAsync("Hello World\r\n");
 
-			string[] fileDatas = System.IO.File.ReadAllLines(env.WebRootPath + "/text.txt");
-			foreach(string i in fileDatas){
-				await context.Response.WriteAsync(i);
+			string fileFullPath = env.WebRootPath + "/text.txt";
+		
+			if ( System.IO.File.Exists(fileFullPath) )
+			{
+				await context.Response.WriteAsync("[message from text file]\r\n");
+				string[] fileDatas = System.IO.File.ReadAllLines(env.WebRootPath + "/text.txt");
+				foreach(string i in fileDatas){
+					await context.Response.WriteAsync(i);
+				}
+			}
+			else
+			{
+				await context.Response.WriteAsync("Not found file in : " + fileFullPath + "\r\n for read text file.");
 			}
 		});
         }

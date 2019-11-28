@@ -5,6 +5,8 @@
 
 #echo $(docker images -qf "dangling=true")
 
+docker rmi -f dotnethelloworld
+
 docker rmi -f $(docker images -qf "dangling=true")
 
 if [ $1 ] && [ $1 == 'all' ]

@@ -17,4 +17,4 @@ docker rmi $(docker images -qf "dangling=true")
 docker rmi $(docker images | grep "dotnethellowlrd")
 
 #docker
-docker build -t dotnethelloworld ./bin/release/netcoreapp2.2/publish
+docker build -t dotnethelloworld -f Dockerfile ./bin/release/netcoreapp2.2/publish

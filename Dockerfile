@@ -13,4 +13,7 @@ WORKDIR /app
 #COPY --from=build-env /app .
 COPY . .
 
+#ลบตรงนี้เนื่องจากจะใช้การแชร์จาก docker volume เข้าไปแทน
+RUN rm -rf wwwroot
+
 CMD ASPNETCORE_URLS=http://*:$PORT dotnet dotnethelloworld.dll
