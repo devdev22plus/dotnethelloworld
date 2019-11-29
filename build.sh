@@ -14,7 +14,7 @@ docker rmi dotnethelloworld
 #docker rmi $(docker images --filter "dangling=true" -q --no-trunc)
 #image none clear
 docker rmi $(docker images -qf "dangling=true")
-docker rmi $(docker images | grep "dotnethellowlrd")
+docker rmi $(docker images | grep "dotnethelloworld")
 
 #docker
 docker build -t dotnethelloworld -f Dockerfile ./bin/release/netcoreapp2.2/publish
