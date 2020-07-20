@@ -24,6 +24,6 @@ jobs:
     - name: Test
       run: dotnet test --no-restore --verbosity normal
     - name: publish
-      run: dotnet publish -c Release
+      run: dotnet publish -c Release -o ./publish_release
     - name: docker build
-      run: docker build -t dotnethelloworld -f Dockerfile.arm32 ./bin/release/netcoreapp2.2/publish
+      run: docker build -t dotnethelloworld -f Dockerfile.arm32 ./publish_release
