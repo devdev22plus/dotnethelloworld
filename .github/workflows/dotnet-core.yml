@@ -23,3 +23,7 @@ jobs:
       run: dotnet build --configuration Release --no-restore
     - name: Test
       run: dotnet test --no-restore --verbosity normal
+    - name: publish
+      run: dotnet publish -c Release
+    - name: docker build
+      run: docker build -t dotnethelloworld -f Dockerfile.arm32 ./bin/release/netcoreapp2.2/publish
